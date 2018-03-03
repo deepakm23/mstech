@@ -426,7 +426,7 @@
                 <jdbc.driverClassName>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc.driverClassName>
                 <jdbc.url>jdbc:sqlserver://mstechdbserver.database.windows.net:1433;database=mstechdb</jdbc.url>
                 <jdbc.username>mstechdbadmin@mstechdbserver</jdbc.username>
-                <jdbc.password>mstech#23</jdbc.password>
+                <jdbc.password>xxxxx</jdbc.password>
             </properties>
             <dependencies>
             <dependency>
